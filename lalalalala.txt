@@ -1,0 +1,120 @@
+﻿Started: 09/07/2016 11:03
+
+Connected to Báu de Azevinho.
+BANNEREXEMPLO1.png - Transferring
+CabeçalhoSite.png - Transferring
+capafb.png - Transferring
+centrodireita.png - Transferring
+centroesqueda.png - Transferring
+Centroesquerda.png - Transferring
+css\craftyslide.css - Transferring
+BANNEREXEMPLO1.png - error occurred - An FTP error occurred - cannot put BANNEREXEMPLO1.png.  Dreamweaver cannot connect to host "ftp.xpg.com.br". This may be due to one or more of the following reasons:  	- The network cable is unplugged or the network is down. Please verify that the network cable is connected and that the network is up. 	- The FTP server is down. Please verify that you can connect to the FTP server using another FTP program. 	- The FTP host name is incorrect. Please verify that the host name is correct in the Site definition dialog box. 	- Accessing the server requires proxy settings that aren't properly set. Please verify that the proxy settings in the Site category of the Preferences dialog box are properly set, and that the Use Proxy option in the Site definition dialog box is selected.  	- You may need to connect to the server using a different port than the one provided. Please specify the correct port in the box provided.
+Facebook-Like-Box1.png - Transferring
+CabeçalhoSite.png - Put operation successful
+galeria.html - Transferring
+GaleriaSiteHauff.png - Transferring
+capafb.png - error occurred - An FTP error occurred - cannot put capafb.png.  Dreamweaver cannot connect to host "ftp.xpg.com.br". This may be due to one or more of the following reasons:  	- The network cable is unplugged or the network is down. Please verify that the network cable is connected and that the network is up. 	- The FTP server is down. Please verify that you can connect to the FTP server using another FTP program. 	- The FTP host name is incorrect. Please verify that the host name is correct in the Site definition dialog box. 	- Accessing the server requires proxy settings that aren't properly set. Please verify that the proxy settings in the Site category of the Preferences dialog box are properly set, and that the Use Proxy option in the Site definition dialog box is selected.  	- You may need to connect to the server using a different port than the one provided. Please specify the correct port in the box provided.
+galeria.html - Put operation successful
+HomeSiteHauff.png - Transferring
+centrodireita.png - error occurred - An FTP error occurred - cannot put centrodireita.png.  Dreamweaver cannot connect to host "ftp.xpg.com.br". This may be due to one or more of the following reasons:  	- The network cable is unplugged or the network is down. Please verify that the network cable is connected and that the network is up. 	- The FTP server is down. Please verify that you can connect to the FTP server using another FTP program. 	- The FTP host name is incorrect. Please verify that the host name is correct in the Site definition dialog box. 	- Accessing the server requires proxy settings that aren't properly set. Please verify that the proxy settings in the Site category of the Preferences dialog box are properly set, and that the Use Proxy option in the Site definition dialog box is selected.  	- You may need to connect to the server using a different port than the one provided. Please specify the correct port in the box provided.
+HomeSiteHauff.psd - Transferring
+GaleriaSiteHauff.png - Put operation successful
+images\pagination.png - Transferring
+centroesqueda.png - error occurred - An FTP error occurred - cannot put centroesqueda.png.  Dreamweaver cannot connect to host "ftp.xpg.com.br". This may be due to one or more of the following reasons:  	- The network cable is unplugged or the network is down. Please verify that the network cable is connected and that the network is up. 	- The FTP server is down. Please verify that you can connect to the FTP server using another FTP program. 	- The FTP host name is incorrect. Please verify that the host name is correct in the Site definition dialog box. 	- Accessing the server requires proxy settings that aren't properly set. Please verify that the proxy settings in the Site category of the Preferences dialog box are properly set, and that the Use Proxy option in the Site definition dialog box is selected.  	- You may need to connect to the server using a different port than the one provided. Please specify the correct port in the box provided.
+Centroesquerda.png - error occurred - An FTP error occurred - cannot put Centroesquerda.png.  Dreamweaver cannot connect to host "ftp.xpg.com.br". This may be due to one or more of the following reasons:  	- The network cable is unplugged or the network is down. Please verify that the network cable is connected and that the network is up. 	- The FTP server is down. Please verify that you can connect to the FTP server using another FTP program. 	- The FTP host name is incorrect. Please verify that the host name is correct in the Site definition dialog box. 	- Accessing the server requires proxy settings that aren't properly set. Please verify that the proxy settings in the Site category of the Preferences dialog box are properly set, and that the Use Proxy option in the Site definition dialog box is selected.  	- You may need to connect to the server using a different port than the one provided. Please specify the correct port in the box provided.
+Facebook-Like-Box1.png - Put operation successful
+css\craftyslide.css - error occurred - An FTP error occurred - cannot put craftyslide.css.  Dreamweaver cannot connect to host "ftp.xpg.com.br". This may be due to one or more of the following reasons:  	- The network cable is unplugged or the network is down. Please verify that the network cable is connected and that the network is up. 	- The FTP server is down. Please verify that you can connect to the FTP server using another FTP program. 	- The FTP host name is incorrect. Please verify that the host name is correct in the Site definition dialog box. 	- Accessing the server requires proxy settings that aren't properly set. Please verify that the proxy settings in the Site category of the Preferences dialog box are properly set, and that the Use Proxy option in the Site definition dialog box is selected.  	- You may need to connect to the server using a different port than the one provided. Please specify the correct port in the box provided.
+images\pagination.png - Put operation successful
+HomeSiteHauff.png - error occurred - An FTP error occurred - cannot put HomeSiteHauff.png.  Dreamweaver cannot connect to host "ftp.xpg.com.br". This may be due to one or more of the following reasons:  	- The network cable is unplugged or the network is down. Please verify that the network cable is connected and that the network is up. 	- The FTP server is down. Please verify that you can connect to the FTP server using another FTP program. 	- The FTP host name is incorrect. Please verify that the host name is correct in the Site definition dialog box. 	- Accessing the server requires proxy settings that aren't properly set. Please verify that the proxy settings in the Site category of the Preferences dialog box are properly set, and that the Use Proxy option in the Site definition dialog box is selected.  	- You may need to connect to the server using a different port than the one provided. Please specify the correct port in the box provided.
+HomeSiteHauff.psd - error occurred - An FTP error occurred - cannot put HomeSiteHauff.psd.  Dreamweaver cannot connect to host "ftp.xpg.com.br". This may be due to one or more of the following reasons:  	- The network cable is unplugged or the network is down. Please verify that the network cable is connected and that the network is up. 	- The FTP server is down. Please verify that you can connect to the FTP server using another FTP program. 	- The FTP host name is incorrect. Please verify that the host name is correct in the Site definition dialog box. 	- Accessing the server requires proxy settings that aren't properly set. Please verify that the proxy settings in the Site category of the Preferences dialog box are properly set, and that the Use Proxy option in the Site definition dialog box is selected.  	- You may need to connect to the server using a different port than the one provided. Please specify the correct port in the box provided.
+index.html - Transferring
+index.html - Put operation successful
+jquery\blueberry.css - Transferring
+jquery\index.html - Transferring
+jquery\jquery.blueberry.js - Transferring
+jquery\jquery.blueberry.zip - Transferring
+jquery\blueberry.css - Put operation successful
+jquery\LICENSE.txt - Transferring
+jquery\README - Transferring
+jquery\jquery.blueberry.zip - Put operation successful
+jquery\index.html - Put operation successful
+jquery\LICENSE.txt - Put operation successful
+jquery\jquery.blueberry.js - Put operation successful
+jquery\website\About.htm - Transferring
+jquery\README - Put operation successful
+jquery\website\About.htm - Put operation successful
+jquery\website\Contact.htm - Transferring
+jquery\website\Contact.htm - Put operation successful
+jquery\website\css\craftyslide.css - Transferring
+jquery\website\css\craftyslide.css - Put operation successful
+jquery\website\images\banner.png - Transferring
+jquery\website\images\banner.png - Put operation successful
+jquery\website\images\bg.jpg - Transferring
+jquery\website\images\casa.jpg - Transferring
+jquery\website\images\casa.jpg - error occurred - An FTP error occurred - cannot put casa.jpg.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+jquery\website\images\eu.png - Transferring
+jquery\website\images\pagination.png - Transferring
+jquery\website\images\eu.png - error occurred - An FTP error occurred - cannot put eu.png.  Dreamweaver cannot connect to host "ftp.xpg.com.br". This may be due to one or more of the following reasons:  	- The network cable is unplugged or the network is down. Please verify that the network cable is connected and that the network is up. 	- The FTP server is down. Please verify that you can connect to the FTP server using another FTP program. 	- The FTP host name is incorrect. Please verify that the host name is correct in the Site definition dialog box. 	- Accessing the server requires proxy settings that aren't properly set. Please verify that the proxy settings in the Site category of the Preferences dialog box are properly set, and that the Use Proxy option in the Site definition dialog box is selected.  	- You may need to connect to the server using a different port than the one provided. Please specify the correct port in the box provided.
+jquery\website\images\pagination.png - error occurred - An FTP error occurred - cannot put pagination.png.  Dreamweaver cannot connect to host "ftp.xpg.com.br". This may be due to one or more of the following reasons:  	- The network cable is unplugged or the network is down. Please verify that the network cable is connected and that the network is up. 	- The FTP server is down. Please verify that you can connect to the FTP server using another FTP program. 	- The FTP host name is incorrect. Please verify that the host name is correct in the Site definition dialog box. 	- Accessing the server requires proxy settings that aren't properly set. Please verify that the proxy settings in the Site category of the Preferences dialog box are properly set, and that the Use Proxy option in the Site definition dialog box is selected.  	- You may need to connect to the server using a different port than the one provided. Please specify the correct port in the box provided.
+jquery\website\index.htm - Transferring
+jquery\website\index.htm - error occurred - An FTP error occurred - cannot put index.htm.  Dreamweaver cannot connect to host "ftp.xpg.com.br". This may be due to one or more of the following reasons:  	- The network cable is unplugged or the network is down. Please verify that the network cable is connected and that the network is up. 	- The FTP server is down. Please verify that you can connect to the FTP server using another FTP program. 	- The FTP host name is incorrect. Please verify that the host name is correct in the Site definition dialog box. 	- Accessing the server requires proxy settings that aren't properly set. Please verify that the proxy settings in the Site category of the Preferences dialog box are properly set, and that the Use Proxy option in the Site definition dialog box is selected.  	- You may need to connect to the server using a different port than the one provided. Please specify the correct port in the box provided.
+jquery\website\images\bg.jpg - Put operation successful
+jquery\website\js\craftyslide.js - Transferring
+jquery\website\js\craftyslide.js - Put operation successful
+jquery\website\js\craftyslide.min.js - Transferring
+jquery\website\js\craftyslide.min.js - Put operation successful
+jquery\website\style.css - Transferring
+jquery\website\style.css - Put operation successful
+js\craftyslide.js - Transferring
+js\craftyslide.min.js - Transferring
+NomeSite.png - Transferring
+perfil.html - Transferring
+PerfilSiteHauff.png - Transferring
+js\craftyslide.js - Put operation successful
+PgwSlider-master.zip - Transferring
+Rodapé.png - Transferring
+Sem-Título-1.png - Transferring
+SiteHauff.rar - Transferring
+style.css - Transferring
+testejquery.html - Transferring
+texturas-de-madeira-rustica-8.jpg - Transferring
+Untitled-2.html - Transferring
+PerfilSiteHauff.png - Put operation successful
+NomeSite.png - Put operation successful
+perfil.html - error occurred - An FTP error occurred - cannot put perfil.html.  Dreamweaver cannot connect to host "ftp.xpg.com.br". This may be due to one or more of the following reasons:  	- The network cable is unplugged or the network is down. Please verify that the network cable is connected and that the network is up. 	- The FTP server is down. Please verify that you can connect to the FTP server using another FTP program. 	- The FTP host name is incorrect. Please verify that the host name is correct in the Site definition dialog box. 	- Accessing the server requires proxy settings that aren't properly set. Please verify that the proxy settings in the Site category of the Preferences dialog box are properly set, and that the Use Proxy option in the Site definition dialog box is selected.  	- You may need to connect to the server using a different port than the one provided. Please specify the correct port in the box provided.
+style.css - Put operation successful
+Rodapé.png - error occurred - An FTP error occurred - cannot put Rodapé.png.  Dreamweaver cannot connect to host "ftp.xpg.com.br". This may be due to one or more of the following reasons:  	- The network cable is unplugged or the network is down. Please verify that the network cable is connected and that the network is up. 	- The FTP server is down. Please verify that you can connect to the FTP server using another FTP program. 	- The FTP host name is incorrect. Please verify that the host name is correct in the Site definition dialog box. 	- Accessing the server requires proxy settings that aren't properly set. Please verify that the proxy settings in the Site category of the Preferences dialog box are properly set, and that the Use Proxy option in the Site definition dialog box is selected.  	- You may need to connect to the server using a different port than the one provided. Please specify the correct port in the box provided.
+Sem-Título-1.png - error occurred - An FTP error occurred - cannot put Sem-Título-1.png.  Dreamweaver cannot connect to host "ftp.xpg.com.br". This may be due to one or more of the following reasons:  	- The network cable is unplugged or the network is down. Please verify that the network cable is connected and that the network is up. 	- The FTP server is down. Please verify that you can connect to the FTP server using another FTP program. 	- The FTP host name is incorrect. Please verify that the host name is correct in the Site definition dialog box. 	- Accessing the server requires proxy settings that aren't properly set. Please verify that the proxy settings in the Site category of the Preferences dialog box are properly set, and that the Use Proxy option in the Site definition dialog box is selected.  	- You may need to connect to the server using a different port than the one provided. Please specify the correct port in the box provided.
+texturas-de-madeira-rustica-8.jpg - Put operation successful
+testejquery.html - error occurred - An FTP error occurred - cannot put testejquery.html.  Dreamweaver cannot connect to host "ftp.xpg.com.br". This may be due to one or more of the following reasons:  	- The network cable is unplugged or the network is down. Please verify that the network cable is connected and that the network is up. 	- The FTP server is down. Please verify that you can connect to the FTP server using another FTP program. 	- The FTP host name is incorrect. Please verify that the host name is correct in the Site definition dialog box. 	- Accessing the server requires proxy settings that aren't properly set. Please verify that the proxy settings in the Site category of the Preferences dialog box are properly set, and that the Use Proxy option in the Site definition dialog box is selected.  	- You may need to connect to the server using a different port than the one provided. Please specify the correct port in the box provided.
+Untitled-2.html - error occurred - An FTP error occurred - cannot put Untitled-2.html.  Dreamweaver cannot connect to host "ftp.xpg.com.br". This may be due to one or more of the following reasons:  	- The network cable is unplugged or the network is down. Please verify that the network cable is connected and that the network is up. 	- The FTP server is down. Please verify that you can connect to the FTP server using another FTP program. 	- The FTP host name is incorrect. Please verify that the host name is correct in the Site definition dialog box. 	- Accessing the server requires proxy settings that aren't properly set. Please verify that the proxy settings in the Site category of the Preferences dialog box are properly set, and that the Use Proxy option in the Site definition dialog box is selected.  	- You may need to connect to the server using a different port than the one provided. Please specify the correct port in the box provided.
+js\craftyslide.min.js - error occurred - An FTP error occurred - cannot put craftyslide.min.js.  Dreamweaver cannot connect to host "ftp.xpg.com.br". This may be due to one or more of the following reasons:  	- The network cable is unplugged or the network is down. Please verify that the network cable is connected and that the network is up. 	- The FTP server is down. Please verify that you can connect to the FTP server using another FTP program. 	- The FTP host name is incorrect. Please verify that the host name is correct in the Site definition dialog box. 	- Accessing the server requires proxy settings that aren't properly set. Please verify that the proxy settings in the Site category of the Preferences dialog box are properly set, and that the Use Proxy option in the Site definition dialog box is selected.  	- You may need to connect to the server using a different port than the one provided. Please specify the correct port in the box provided.
+PgwSlider-master.zip - error occurred - An FTP error occurred - cannot put PgwSlider-master.zip.  Dreamweaver cannot connect to host "ftp.xpg.com.br". This may be due to one or more of the following reasons:  	- The network cable is unplugged or the network is down. Please verify that the network cable is connected and that the network is up. 	- The FTP server is down. Please verify that you can connect to the FTP server using another FTP program. 	- The FTP host name is incorrect. Please verify that the host name is correct in the Site definition dialog box. 	- Accessing the server requires proxy settings that aren't properly set. Please verify that the proxy settings in the Site category of the Preferences dialog box are properly set, and that the Use Proxy option in the Site definition dialog box is selected.  	- You may need to connect to the server using a different port than the one provided. Please specify the correct port in the box provided.
+SiteHauff.rar - error occurred - An FTP error occurred - cannot put SiteHauff.rar.  Dreamweaver cannot connect to host "ftp.xpg.com.br". This may be due to one or more of the following reasons:  	- The network cable is unplugged or the network is down. Please verify that the network cable is connected and that the network is up. 	- The FTP server is down. Please verify that you can connect to the FTP server using another FTP program. 	- The FTP host name is incorrect. Please verify that the host name is correct in the Site definition dialog box. 	- Accessing the server requires proxy settings that aren't properly set. Please verify that the proxy settings in the Site category of the Preferences dialog box are properly set, and that the Use Proxy option in the Site definition dialog box is selected.  	- You may need to connect to the server using a different port than the one provided. Please specify the correct port in the box provided.
+
+File activity incomplete. 20 file(s) or folder(s) were not completed.
+Files updated: 25
+
+Files with errors: 20
+BANNEREXEMPLO1.png
+capafb.png
+centrodireita.png
+centroesqueda.png
+Centroesquerda.png
+css\craftyslide.css
+HomeSiteHauff.png
+HomeSiteHauff.psd
+jquery\website\images\casa.jpg
+jquery\website\images\eu.png
+jquery\website\images\pagination.png
+jquery\website\index.htm
+perfil.html
+Rodapé.png
+Sem-Título-1.png
+testejquery.html
+Untitled-2.html
+js\craftyslide.min.js
+PgwSlider-master.zip
+SiteHauff.rar
+
+Finished: 09/07/2016 11:06
